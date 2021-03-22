@@ -1,5 +1,5 @@
-API_KEY = 'PKMDQ90HBMFK6G2GZ8KA'
-API_SECRET = 'N3ObeSR4lClTn07flfXkIufUrYrM19EqBnwfkHgB'
+API_KEY = 'PKR4JTRP5HE952PJCF4D'
+API_SECRET = 'oH0kq6LvKqyCRet3nNms2ozlbRUbNnBLcmFrukms'
 
 WEBHOOK_PASSPHRASE = 'kvostov'
-DISCORD_WEBHOOK_URL = False # use a string containing your discord webhook url to enable
+DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/823656221886251040/IMn7WMwroroUQ1fG0Nn6J26vxhkt36rYKnp2n3P61wYagvKvlQnMyuz4Vjn0wgO2rmu7' # use a string containing your discord webhook url to enable
