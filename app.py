@@ -27,6 +27,6 @@ def webhook():
     symbol = webhook_message['ticker']
     side = webhook_message['strategy']['order_action']
     
-    order = api.submit_order(symbol, quantity, side, 'market', 'gtc', price)    
+    order = api.submit_order(symbol, quantity, side, 'market', 'gtc')    
 
     return webhook_message
